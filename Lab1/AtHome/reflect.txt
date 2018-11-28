@@ -1,0 +1,14 @@
+Name: Jacob Carating
+Student number : 157 725 177
+Email : jacarating@myseneca.ca
+Section: AB
+Date: 9/8/2018
+
+1. A namespace is a declared region that provides a scope for entities that are enclosed within its curly brackets.
+   Namespaces are used to avoid naming collisions that can occur within your code when declaring multiple variables using the same name as other functions, variables, or types.
+   We use namespaces to organize our code into logical groups that help us as well as others with readbility, and cleanliness of our code.
+2. Headerfiles are needed for the orignization as well as the functionality of our code. When using objects and/or functions from other libraries we need to include them in our .cpp or .c files for successful compiling; otherwise our code will not compile properly without the proper function prototypes.
+   Headerfiles let the compiler know that we have created these functions so it is not confused when we call them in our code.
+3. Within the .cpp files, we already have programed those files to be included the .h files when compiled. It is redundant to compile both files and as a programmer it is one of your most important prioirties to eliminate any redundancies.
+4. It's not required by the compiler to include the .cpp files. Including such files may result in compilation errors and ruin functionality.
+5. I have learned about namespaces and how they can be effective. We use them to avoid naming collosions when including multiple libraries, or having to write thousands lines of code. Realistically it would be impossible to remember all of the variables we have declared previously so instead we use namespaces to provide the scope for our variables.
