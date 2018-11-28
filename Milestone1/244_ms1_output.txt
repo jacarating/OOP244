@@ -1,0 +1,59 @@
+Script started on Thu 18 Oct 2018 08:18:57 PM EDT
+Checking defined and constant values: 
+Passed!
+Checking define values for error code in Data.h
+Passed!
+Testing the Date() constructor and the operator << overload; 
+Are these two dates the same? (regardless of format)
+1- 0/00/00
+2- 0/00/00
+(y)es/(n)o: y
+Passed!
+Testing Date(int, int, int) constructor and operator>> overload; 
+Enter the following date, 2019/10/18
+>2019/10/18
+Passed!
+Testing the logical operators: 
+Testing operator==
+passed!
+Testing operator>=
+passed!
+Testing operator<=
+passed!
+Testing operator!=
+passed!
+Testing operator<
+passed!
+Testing operator>
+passed!
+Testing operator<=
+passed!
+Testing operator>=
+passed!
+Testing error handling in read function;
+Testing cin failure detection, 
+Please enter the following string "abcd": abcd
+passed!
+Testing year validation, 
+Please enter the following string "10/1/1": 10/1/1
+You accepted: 0/00/00
+passed!
+Testing month validation, 
+Please enter the following string "2018/13/1": 2018/13/1
+You accepted: 0/00/00
+Passed
+Testing day validation, 
+Please enter the following string "2018/1/50": 2018/1/50
+You accepted: 0/00/00
+Passed!
+Testing minimum date validation, 
+Please enter the following string "2018/12/29": 2018/12/29
+You accepted: 0/00/00
+Passed!
+Testing day validation, leap year:
+Please enter the following string "2024/2/29": 2024/2/29
+You accepted: 2024/02/29
+passed!
+You passed all the tests!
+
+Script done on Thu 18 Oct 2018 08:19:51 PM EDT

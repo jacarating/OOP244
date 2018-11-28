@@ -1,0 +1,15 @@
+Script started on Wed Nov  7 20:00:22 2018
+Testing Error Module
+e: isClear(): Passed!
+f: isClear(): Passed!
+g: isClear(): Passed!
+-----------| Long Message***********
+An error message that is really long long  long  long  long  long  long  long long  long  long  long  long  long  long  long  long  long  long  long  long long  long  long  long  long  long  long  long  long  long  long  long  long long  long  long  long  long  long  long  long  long  long  long  long  long long  long  long  long  long  long  long  long  long  long  long  long  long long  long  long  long  long  long  long  long  long  long  long  long  long long  long  long  long  long  long  long  long  long  long  long  long  long long  long  long  long  long  long  long  long  long  long  long  long  long long  long  long  long  long  long  long  long  long  long  long  long  long long  long  long  long  long  long  long  long  long  long  long  long  long long  long  long  long  long  long  long  long  long  long  long  long  long long  long  long  long  long  long  long  long  long  long  long  long  long long  long  long  long  long  long  long  long  long  long  long  long  long long  long  long  long  long  long  long  long  long  long  long  long  long long  long  long  long  long  long  long  long  long  long  long  long  long long  long  long  long  long  long  long  long  long  long  long  long  long long  long  long  long  long  long  long  long  long  long  long  long  long long  long  long  long  long  long  long  long  long  long  long  long  long long  long  long  long  long  long  long  long  long  long  long  long  long|***********
+Long Message  isClear(): Passed!
+Short Message isClear(): Passed!
+Clear Message isClear(): Passed!
+Empty Message isClear(): Passed!
+
+You passed all the tests!
+
+Script done on Wed Nov  7 20:00:25 2018

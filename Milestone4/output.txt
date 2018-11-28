@@ -1,0 +1,25 @@
+Script started on Sun Nov 25 17:55:12 2018
+Linear: one two 
+As is: 
+one
+two
+
+Enter the following: 
+three<ENTER>
+four<ENTER>
+Ctrl^D<ENTER>
+
+three
+four
+one two three four 
+one
+two
+three
+four
+
+sku match
+Good < Perishable
+45|32|131|32
+113.5
+
+Script done on Sun Nov 25 17:55:19 2018
