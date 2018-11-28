@@ -1,0 +1,10 @@
+Jacob Carating
+157 725 177
+jacarating@myseneca.ca
+
+Reflection:
+1)	No, the base class Hero does not need to know about it’s derived class SuperHero.
+2)	Yes, the derived class needs to know about the base (or parent) class in order to properly execute the logic within the code.
+3)	“Ancient Battle!”
+4)	True, because you are creating to objects and at the same time make them fight using the overloaded * operator. 
+5)	True, because it’s doing the same logic with the previous code, however making to two winners of those fights, fight each other for a final battle. Following this logic, it performs the initialization of the two heroes, and then a winner gets assigned within those first set of brackets, then secondly the same patter happens again. Within each pair of brackets holds a winner (Hector vs Atalanta), and between those brackets is a over loaded operator * that makes those two winners fight for that final battle.

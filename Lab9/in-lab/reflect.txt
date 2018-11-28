@@ -1,0 +1,7 @@
+Jacob Carating
+157 725 177
+jacarating@myseneca.ca
+1)	I get an error at compile time. I am still unable to run the program if I move all the functions to the Data.h file because compiler is unable to interpret the implementation code and the template code simultaneously.
+2)	Regardless of where I placed the template function inside of the .cpp , I was still unable to compile because the function was not found.
+3)	Yes, you can overload these functions, however as a programmer your goal is to minimize redundancies and creating templates is the best approach to achieve this.
+4)	Yes and no, the declarations do offer polymorphism and help in creating a specific type of template and both class and typename are datatypes. However, template <class T> would refer to a class template, and template <typename T> would refer to a function template the uses a specified data type.

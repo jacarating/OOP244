@@ -1,0 +1,10 @@
+
+In line number 10 of your output:
+The output should be:
+Violent Crime trend is down
+But your output is: 
+Violent Crime Trend is down
+              ^
+--------------|
+Professor's character ASCII code: hex(74), dec(116)
+un-matched character ASCII code: hex(54), dec(84)

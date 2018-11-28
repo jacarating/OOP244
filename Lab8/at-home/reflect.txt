@@ -1,0 +1,7 @@
+Jacob Carating
+157 725 177’
+jacarating@myseneca.ca
+Reflection:
+1.	An abstract class is a class that inherits or has pure virtual functions, whereas  a concrete class is an ordinary class that doesn’t contain any pure virtual functions.
+2.	The two functions in derived class ChequingAccount credit and debit shadows the functions in base class Account credit and debit.
+3.	I have learned how to use shadowing more clearly, I’ve learned that you can create objects in dynamic memory, and I’ve also learned how abstract classes work as well as how to design interface classes.
