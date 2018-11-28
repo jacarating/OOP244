@@ -1,0 +1,7 @@
+// Author: Jacob Carating
+// ID: 157 725 177
+// Email: jacarating@myseneca.ca
+1.	Because if the value was returned by reference, the value will be gone when the function goes out of scope. Returning by value will pass a copy of that value so even after the function goes out of scope, the value remained the same.
+2.	The temporary objects are: Fraction a,b,c,d,e.
+3.	I called the default constructor Fraction() in other functions whenever I needed to set an object to an empty state. I called the reduce() function whenever I needed to reduce an object. In  the reduce() function I called the gcd() function. I also called the isEmpty() function whenever I needed to check if the object was empty.
+4.	I have learned how to overload operators, how to implement the formula of addition and multiplication of two fractions into source code. 

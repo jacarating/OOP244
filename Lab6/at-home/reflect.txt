@@ -1,0 +1,8 @@
+Jacob Carating
+157 725 177
+jacarating@myseneca.ca
+1)	In the copy assignment operator, we check for self-assignment before performing any operations because if we don’t, we would delete the memory being held by the pointer and lose any resource data, thus resulting in losing access to the source data and ultimately leading to other semantic errors.
+2)	I called the validNum function to check if the number being passed through its parameters met the requirements to be valid; I called the validNum function multiple times throughout many other functions.
+3)	I have learned how to avoid memory leaks and fix segmentation faults. I also learned how to use pointers more effectively (calculating the area code and country code and storing it into a variable). 
+Quiz 5 Reflection:
+I got perfect on the last test.

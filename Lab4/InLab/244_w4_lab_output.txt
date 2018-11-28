@@ -1,0 +1,27 @@
+Script started on Sat 29 Sep 2018 08:39:04 PM EDT
+----------------------------------------
+Testing the validation logic
+(only passengers 5 and 6 should be valid)
+----------------------------------------
+Passenger 1: not valid
+Passenger 2: not valid
+Passenger 3: not valid
+Passenger 4: not valid
+Passenger 5: valid
+Passenger 6: valid
+Passenger 7: not valid
+Passenger 8: not valid
+----------------------------------------
+
+----------------------------------------
+Testing the display function
+----------------------------------------
+Vanessa - Paris
+Mike - Tokyo
+Alice - Paris
+Christopher Szwart - Toronto
+No passenger!
+----------------------------------------
+
+
+Script done on Sat 29 Sep 2018 08:39:04 PM EDT

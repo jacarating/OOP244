@@ -1,0 +1,16 @@
+Student: Jacob Carating
+ID: 157 725 177
+Email: jacarating@myseneca.ca
+1)	A safe empty state is a user defined state that a function recognizes informing the compiler that the object or variable is indeed empty.
+2)	In the functions: 
+        const char* Passenger::name() const; 
+        void Passenger::display() const;
+I called the function isEmpty() to check if the object was empty which helped me avoid redundancies from writing the same code over again. 
+Also in both Passenger contructors (with the 2 and 5 parameters) I used the *this = Passenger() statement to call the default constructor to set the object to an empty state.
+3)	Because  canTravelWith() was declared in the class Passenger so it has access to the private data members.
+4)	passName[LIMIT - 1] = '\0';
+5)	I have learned how to operate the *this pointer. I also learned how to format the output with the built in method for the object cout using the .width, and .fill methods.
+Quiz 3 Reflection:
+3.2.3.1.$$$C++,707
+$$$xyz,10
+

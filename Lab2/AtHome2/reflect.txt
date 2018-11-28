@@ -1,0 +1,17 @@
+Student: Jacob Carating
+ID: 157 725 177
+Email: jacarating@myseneca.ca
+1)	We need to allocate new dynamic memory because we previously declared a size and its fixed for the duration of the program. Because want to increase the amount of memory we must explicitly instruct the program to do so.
+2)	The character array is a data member inside of struct Kingdom-so once we use the delete operator on Kingdom it also deletes the data members declared inside.
+3)	The compiler can distinguish which function to call based on the parameters being passed to the function. The functions signature identifies what data types are being passed and it matches them with the corresponding function.
+4)	I have learned new syntax for the C++ language, I have learned about the C++ reference parameters, how function overloading works, and about dynamic memory allocation and deallocation. 
+Quiz 1 Reflection:
+Question 3:
+Module 2 (the main module): main_app.cpp
+#include <iostream>
+#include hello.h
+using namespace std;
+using namespace sict;
+
+
+
